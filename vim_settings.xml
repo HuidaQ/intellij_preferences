@@ -6,6 +6,30 @@
       <file name="/Dummy.txt" timestamp="1493186395520">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/MinimumMovesToEqualArrayElementsII.java" timestamp="1493276492078">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/HammingDistance.java" timestamp="1493267956011">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="1" column="3" />
+        <mark key="." line="1" column="3" />
+        <mark key="^" line="1" column="3" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/intelliJ_projects/test/module1/src/Module.java" timestamp="1493104172400">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="12" column="1" />
+        <mark key="." line="12" column="1" />
+        <mark key="^" line="12" column="1" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/intelliJ_projects/test/src/Test.java" timestamp="1493102614622">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/Solution.java" timestamp="1493269061947">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="6" column="0" />
@@ -31,23 +55,11 @@
         <mark key="]" line="13" column="13" />
         <mark key="." line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/HammingDistance.java" timestamp="1493267956011">
-        <mark key="[" line="0" column="30" />
-        <mark key="]" line="1" column="3" />
-        <mark key="." line="1" column="3" />
-        <mark key="^" line="1" column="3" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/intelliJ_projects/test/module1/src/Module.java" timestamp="1493104172400">
-        <mark key="[" line="9" column="17" />
-        <mark key="]" line="12" column="1" />
-        <mark key="." line="12" column="1" />
-        <mark key="^" line="12" column="1" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/intelliJ_projects/test/src/Test.java" timestamp="1493102614622">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/MinimumMovesToEqualArrayElements.java" timestamp="1493276751364">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="15" column="38" />
+        <mark key="^" line="15" column="38" />
+        <mark key="." line="15" column="38" />
       </file>
       <file name="/fragment.java" timestamp="1493269226693">
         <mark key="[" line="0" column="0" />
@@ -83,7 +95,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIGJuID0gTG9uZy52YWx1ZU9mKG4pOwo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgaHFpdSBvbiA0LzI3LzE3LgogKi8K</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -95,31 +107,31 @@
         <text encoding="base64">ICAgICAgICAgICAgYnIyID0gTG9uZy52YWx1ZU9mKHIyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIGJuID0gTG9uZy52YWx1ZU9mKG4pOwo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgaHFpdSBvbiA0LzI3LzE3LgogKi8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBicjMgPSBMb25nLnZhbHVlT2YocjMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb25nIGJuID0gTG9uZy52YWx1ZU9mKG4pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnIzID0gTG9uZy52YWx1ZU9mKHIzKTsK</text>
+        <text encoding="base64">ICAgICAgICBicjMgPSBMb25nLnZhbHVlT2YocjMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnIyID0gTG9uZy52YWx1ZU9mKHIyKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnIxID0gTG9uZy52YWx1ZU9mKHIxKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYnIzID0gTG9uZy52YWx1ZU9mKHIzKTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYnIyID0gTG9uZy52YWx1ZU9mKHIyKTsK</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYnIxID0gTG9uZy52YWx1ZU9mKHIxKTsK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYnIzID0gTG9uZy52YWx1ZU9mKHIzKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYnIyID0gTG9uZy52YWx1ZU9mKHIyKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIGJyMSA9IDAsIGJyMiA9IDAsIGJyMyA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnIxID0gTG9uZy52YWx1ZU9mKHIxKTsK</text>
       </register>
     </registers>
     <search>
