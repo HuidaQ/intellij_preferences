@@ -8,6 +8,12 @@
         <mark key="]" line="2" column="2" />
         <mark key="." line="2" column="2" />
       </file>
+      <file name="$USER_HOME$/Dropbox (Personal)/intelliJ_projects/LeetCode/src/FactorialTrailingZeroes.java" timestamp="1493260196129">
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="19" column="18" />
+        <mark key="^" line="19" column="18" />
+        <mark key="." line="19" column="18" />
+      </file>
       <file name="$USER_HOME$/Dropbox (Personal)/intelliJ_projects/LeetCode/src/ArithmeticSlices.java" timestamp="1493258108074">
         <mark key="[" line="1" column="47" />
       </file>
@@ -36,6 +42,11 @@
         <mark key="]" line="9" column="3" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox (Personal)/intelliJ_projects/LeetCode/src/ExpressionAddOperators.java" timestamp="1493260173251">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="129" column="0" filename="$USER_HOME$/Dropbox (Personal)/intelliJ_projects/LeetCode/src/AllOne.java" />
@@ -43,21 +54,24 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgYyA9IDM7Cg==</text>
+        <text encoding="base64">ICAgIGludCBwcmUgPSAwOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgYyA9IDM7Cg==</text>
+        <text encoding="base64">ICAgIGludCBwcmUgPSAwOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIFlvdXIgQWxsT25lIG9iamVjdCB3aWxsIGJlIGluc3RhbnRpYXRlZCBhbmQgY2FsbGVkIGFzIHN1Y2g6CiAqIEFsbE9uZSBvYmogPSBuZXcgQWxsT25lKCk7CiAqIG9iai5pbmMoa2V5KTsKICogb2JqLmRlYyhrZXkpOwogKiBTdHJpbmcgcGFyYW1fMyA9IG9iai5nZXRNYXhLZXkoKTsKICogU3RyaW5nIHBhcmFtXzQgPSBvYmouZ2V0TWluS2V5KCk7CiAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgYyA9IDM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIFlvdXIgTEZVQ2FjaGUgb2JqZWN0IHdpbGwgYmUgaW5zdGFudGlhdGVkIGFuZCBjYWxsZWQgYXMgc3VjaDoKICogTEZVQ2FjaGUgb2JqID0gbmV3IExGVUNhY2hlKGNhcGFjaXR5KTsKICogaW50IHBhcmFtXzEgPSBvYmouZ2V0KGtleSk7CiAqIG9iai5wdXQoa2V5LHZhbHVlKTsKICovCg==</text>
+        <text encoding="base64">LyoqCiAqIFlvdXIgQWxsT25lIG9iamVjdCB3aWxsIGJlIGluc3RhbnRpYXRlZCBhbmQgY2FsbGVkIGFzIHN1Y2g6CiAqIEFsbE9uZSBvYmogPSBuZXcgQWxsT25lKCk7CiAqIG9iai5pbmMoa2V5KTsKICogb2JqLmRlYyhrZXkpOwogKiBTdHJpbmcgcGFyYW1fMyA9IG9iai5nZXRNYXhLZXkoKTsKICogU3RyaW5nIHBhcmFtXzQgPSBvYmouZ2V0TWluS2V5KCk7CiAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIFlvdXIgTEZVQ2FjaGUgb2JqZWN0IHdpbGwgYmUgaW5zdGFudGlhdGVkIGFuZCBjYWxsZWQgYXMgc3VjaDoKICogTEZVQ2FjaGUgb2JqID0gbmV3IExGVUNhY2hlKGNhcGFjaXR5KTsKICogaW50IHBhcmFtXzEgPSBvYmouZ2V0KGtleSk7CiAqIG9iai5wdXQoa2V5LHZhbHVlKTsKICovCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBpbnQgY291bnQoKSB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
