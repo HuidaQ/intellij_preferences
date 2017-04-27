@@ -3,92 +3,131 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox (Personal)/intelliJ_projects/test/module1/src/Module.java" timestamp="1493167470301">
-        <mark key="[" line="2" column="2" />
-        <mark key="]" line="2" column="2" />
-        <mark key="." line="2" column="2" />
-      </file>
-      <file name="$USER_HOME$/Dropbox (Personal)/intelliJ_projects/LeetCode/src/FactorialTrailingZeroes.java" timestamp="1493260196129">
-        <mark key="[" line="10" column="2" />
-        <mark key="]" line="19" column="18" />
-        <mark key="^" line="19" column="18" />
-        <mark key="." line="19" column="18" />
-      </file>
-      <file name="$USER_HOME$/Dropbox (Personal)/intelliJ_projects/LeetCode/src/ArithmeticSlices.java" timestamp="1493258108074">
-        <mark key="[" line="1" column="47" />
-      </file>
-      <file name="$USER_HOME$/Dropbox (Personal)/intelliJ_projects/LeetCode/src/CoinChange.java" timestamp="1493258155497">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox (Personal)/intelliJ_projects/test/src/Test.java" timestamp="1493082012634">
+      <file name="/Dummy.txt" timestamp="1493186395520">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox (Personal)/intelliJ_projects/LeetCode/src/LFUCache.java" timestamp="1493257821785">
-        <mark key="'" line="155" column="19" />
-        <mark key="[" line="177" column="17" />
-        <mark key="]" line="177" column="21" />
-        <mark key="." line="177" column="21" />
-        <mark key="^" line="177" column="21" />
+      <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/Solution.java" timestamp="1493267492470">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox (Personal)/intelliJ_projects/LeetCode/src/DifferentWaysToAddParentheses.java" timestamp="1493259281004" />
-      <file name="$USER_HOME$/Dropbox (Personal)/intelliJ_projects/LeetCode/src/AllOne.java" timestamp="1493258990701">
-        <mark key="'" line="137" column="0" />
-        <mark key="[" line="78" column="30" />
-        <mark key="]" line="9" column="3" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/Main.java" timestamp="1493186695279">
+        <mark key="a" line="5" column="0" />
+        <mark key="'" line="0" column="20" />
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox (Personal)/intelliJ_projects/LeetCode/src/ExpressionAddOperators.java" timestamp="1493260173251">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/LongestLineOfConsecutive1InMatrix.java" timestamp="1493195339359">
+        <mark key="[" line="0" column="50" />
+        <mark key="]" line="0" column="50" />
+        <mark key="." line="0" column="50" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/HammingDistance.java" timestamp="1493267956011">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="1" column="3" />
+        <mark key="." line="1" column="3" />
+        <mark key="^" line="1" column="3" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/intelliJ_projects/test/module1/src/Module.java" timestamp="1493104172400">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="12" column="1" />
+        <mark key="." line="12" column="1" />
+        <mark key="^" line="12" column="1" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/intelliJ_projects/test/src/Test.java" timestamp="1493102614622">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1493267757012">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/LFUCache.java" timestamp="1493262297488">
+        <mark key="'" line="157" column="1" />
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="23" column="29" />
+        <mark key="." line="23" column="29" />
+        <mark key="^" line="23" column="29" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="0" filename="$USER_HOME$/Dropbox (Personal)/intelliJ_projects/LeetCode/src/AllOne.java" />
-      <jump line="155" column="19" filename="$USER_HOME$/Dropbox (Personal)/intelliJ_projects/LeetCode/src/LFUCache.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/Dropbox/intelliJ_projects/test/src/Test.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/Dropbox/intelliJ_projects/test/src/Test.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/intelliJ_projects/test/src/Test.java" />
+      <jump line="0" column="20" filename="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/Main.java" />
+      <jump line="24" column="20" filename="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/LFUCache.java" />
+      <jump line="34" column="18" filename="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/LFUCache.java" />
+      <jump line="122" column="3" filename="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/LFUCache.java" />
+      <jump line="155" column="0" filename="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/LFUCache.java" />
+      <jump line="38" column="8" filename="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/LFUCache.java" />
+      <jump line="49" column="7" filename="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/LFUCache.java" />
+      <jump line="157" column="1" filename="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/LFUCache.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGludCBwcmUgPSAwOwo=</text>
-      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGludCBwcmUgPSAwOwo=</text>
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>.</text>
+      </register>
+      <register name="/" type="4">
+        <text>public</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjYWNoZS5wcmludCgpOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgYyA9IDM7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIFlvdXIgQWxsT25lIG9iamVjdCB3aWxsIGJlIGluc3RhbnRpYXRlZCBhbmQgY2FsbGVkIGFzIHN1Y2g6CiAqIEFsbE9uZSBvYmogPSBuZXcgQWxsT25lKCk7CiAqIG9iai5pbmMoa2V5KTsKICogb2JqLmRlYyhrZXkpOwogKiBTdHJpbmcgcGFyYW1fMyA9IG9iai5nZXRNYXhLZXkoKTsKICogU3RyaW5nIHBhcmFtXzQgPSBvYmouZ2V0TWluS2V5KCk7CiAqLwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgSGFtbWluZ0Rpc3RhbmNlIHNvbCA9IG5ldyBIYW1taW5nRGlzdGFuY2UoKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc29sLmhhbW1pbmdEaXN0YW5jZSgxLDQpKTsKICAgIA==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">LyoqCiAqIFlvdXIgTEZVQ2FjaGUgb2JqZWN0IHdpbGwgYmUgaW5zdGFudGlhdGVkIGFuZCBjYWxsZWQgYXMgc3VjaDoKICogTEZVQ2FjaGUgb2JqID0gbmV3IExGVUNhY2hlKGNhcGFjaXR5KTsKICogaW50IHBhcmFtXzEgPSBvYmouZ2V0KGtleSk7CiAqIG9iai5wdXQoa2V5LHZhbHVlKTsKICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaXplID0gMDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgY291bnQoKSB7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBMRlVDYWNoZSBjYWNoZSA9IG5ldyBMRlVDYWNoZSgyKTsKICAgICAgICBjYWNoZS5wdXQoMSwgMSk7CiAgICAgICAgY2FjaGUucHV0KDIsIDIpOwogICAgICAgIGNhY2hlLnByaW50KCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGNhY2hlLmdldCgxKSk7ICAgICAgIC8vIHJldHVybnMgMQogICAgICAgIGNhY2hlLnByaW50KCk7CiAgICAgICAgY2FjaGUucHV0KDMsIDMpOyAgICAvLyBldmljdHMga2V5IDIKICAgICAgICBjYWNoZS5wcmludCgpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihjYWNoZS5nZXQoMikpOyAgICAgICAvLyByZXR1cm5zIC0xIChub3QgZm91bmQpCiAgICAgICAgY2FjaGUucHJpbnQoKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2FjaGUuZ2V0KDMpKTsgICAgICAgLy8gcmV0dXJucyAzLgogICAgICAgIGNhY2hlLnByaW50KCk7CiAgICAgICAgY2FjaGUucHV0KDQsIDQpOyAgICAvLyBldmljdHMga2V5IDEuCiAgICAgICAgY2FjaGUucHJpbnQoKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2FjaGUuZ2V0KDEpKTsgICAgICAgLy8gcmV0dXJucyAtMSAobm90IGZvdW5kKQogICAgICAgIGNhY2hlLnByaW50KCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGNhY2hlLmdldCgzKSk7ICAgICAgIC8vIHJldHVybnMgMwogICAgICAgIGNhY2hlLnByaW50KCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGNhY2hlLmdldCg0KSk7ICAgICAgIC8vIHJldHVybnMgNAogICAgICAgIGNhY2hlLnByaW50KCk7CiAgICB9Cg==</text>
       </register>
-      <register name="-" type="4">
-        <text>*</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHZvaWQgcHJpbnQoKSB7CiAgICAgICAgQnVja2V0Tm9kZSBwID0gKEJ1Y2tldE5vZGUpIGJ1Y2tldHMuaGVhZDsKICAgICAgICB3aGlsZSAocCAhPSBudWxsKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQocC5jb3VudCsiWyIpOwogICAgICAgICAgICBFbnRyeU5vZGUgcSA9IChFbnRyeU5vZGUpIHAuZW50cmllcy5oZWFkOwogICAgICAgICAgICB3aGlsZSAocSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KHEua2V5KyI6IitxLnZhbHVlKyIsIik7CiAgICAgICAgICAgICAgICBxID0gKEVudHJ5Tm9kZSkgcS5yaWdodDsKICAgICAgICAgICAgfQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCJdLCIpOwogICAgICAgICAgICBwID0gKEJ1Y2tldE5vZGUpIHAucmlnaHQ7CiAgICAgICAgfQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwogICAgfQoK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjdXJfYnVja2V0Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGN1ciA9PSB0YWlsKSBhZGRfdGFpbChub2RlKTsK</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>public</last-search>
+      <last-offset />
+      <last-pattern>public</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDxhZGRfdGFpbFw+</entry>
+        <entry>public</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>
