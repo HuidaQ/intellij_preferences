@@ -6,10 +6,17 @@
       <file name="/Dummy.txt" timestamp="1493186395520">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/Solution.java" timestamp="1493267492470">
-        <mark key="[" line="5" column="5" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/Solution.java" timestamp="1493269061947">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/FindClosestPalindrome.java" timestamp="1493270167024">
+        <mark key="'" line="24" column="32" />
+        <mark key="[" line="63" column="23" />
+        <mark key="]" line="63" column="41" />
+        <mark key="^" line="63" column="41" />
+        <mark key="." line="63" column="41" />
       </file>
       <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/Main.java" timestamp="1493186695279">
         <mark key="a" line="5" column="0" />
@@ -19,10 +26,10 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/LongestLineOfConsecutive1InMatrix.java" timestamp="1493195339359">
-        <mark key="[" line="0" column="50" />
-        <mark key="]" line="0" column="50" />
-        <mark key="." line="0" column="50" />
+      <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/LongestLineOfConsecutive1InMatrix.java" timestamp="1493269125184">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="13" />
+        <mark key="." line="13" column="13" />
       </file>
       <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/HammingDistance.java" timestamp="1493267956011">
         <mark key="[" line="0" column="30" />
@@ -42,7 +49,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1493267757012">
+      <file name="/fragment.java" timestamp="1493269226693">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/LFUCache.java" timestamp="1493262297488">
@@ -65,52 +72,59 @@
       <jump line="38" column="8" filename="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/LFUCache.java" />
       <jump line="49" column="7" filename="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/LFUCache.java" />
       <jump line="157" column="1" filename="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/LFUCache.java" />
+      <jump line="68" column="4" filename="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/FindClosestPalindrome.java" />
+      <jump line="17" column="28" filename="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/FindClosestPalindrome.java" />
+      <jump line="46" column="44" filename="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/FindClosestPalindrome.java" />
+      <jump line="27" column="12" filename="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/FindClosestPalindrome.java" />
+      <jump line="32" column="12" filename="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/FindClosestPalindrome.java" />
+      <jump line="38" column="12" filename="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/FindClosestPalindrome.java" />
+      <jump line="24" column="32" filename="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/FindClosestPalindrome.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>public</text>
+        <text>br</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjYWNoZS5wcmludCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnIyID0gTG9uZy52YWx1ZU9mKHIyKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgSGFtbWluZ0Rpc3RhbmNlIHNvbCA9IG5ldyBIYW1taW5nRGlzdGFuY2UoKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc29sLmhhbW1pbmdEaXN0YW5jZSgxLDQpKTsKICAgIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQmlnSW50ZWdlciBibiA9IG5ldyBCaWdJbnRlZ2VyKG4pOwogICAgICAgICAgICBCaWdJbnRlZ2VyIGQxID0gYm4uc3VidHJhY3QoYnIyKTsKICAgICAgICAgICAgQmlnSW50ZWdlciBkMiA9IGJyMy5zdWJ0cmFjdChibik7CiAgICAgICAgICAgIGlmIChyMS5jb21wYXJlVG8obikgPT0gMCkgewogICAgICAgICAgICAgICAgLy9TeXN0ZW0ub3V0LnByaW50bG4ocjErIiwiK3IyKyIsIityMyk7CiAgICAgICAgICAgICAgICBpZiAoZDEuY29tcGFyZVRvKGQyKSA+IDApIHJldHVybiByMzsKICAgICAgICAgICAgICAgIHJldHVybiByMjsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIC8vU3lzdGVtLm91dC5wcmludGxuKHIxKyIsIityMisiLCIrcjMpOwogICAgICAgICAgICAgICAgaWYgKGJyMS5jb21wYXJlVG8oYm4pID4gMCkgewogICAgICAgICAgICAgICAgICAgIEJpZ0ludGVnZXIgZDAgPSBicjEuc3VidHJhY3QoYm4pOwogICAgICAgICAgICAgICAgICAgIGlmIChkMS5jb21wYXJlVG8oZDApID4gMCkgcmV0dXJuIHIxOwogICAgICAgICAgICAgICAgICAgIHJldHVybiByMjsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgQmlnSW50ZWdlciBkMCA9IGJuLnN1YnRyYWN0KGJyMSk7CiAgICAgICAgICAgICAgICAgICAgaWYgKGQwLmNvbXBhcmVUbyhkMikgPiAwKSByZXR1cm4gcjM7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHIxOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIFlvdXIgTEZVQ2FjaGUgb2JqZWN0IHdpbGwgYmUgaW5zdGFudGlhdGVkIGFuZCBjYWxsZWQgYXMgc3VjaDoKICogTEZVQ2FjaGUgb2JqID0gbmV3IExGVUNhY2hlKGNhcGFjaXR5KTsKICogaW50IHBhcmFtXzEgPSBvYmouZ2V0KGtleSk7CiAqIG9iai5wdXQoa2V5LHZhbHVlKTsKICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQmlnSW50ZWdlciBicjMgPSBuZXcgQmlnSW50ZWdlcihyMyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzaXplID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQmlnSW50ZWdlciBicjIgPSBuZXcgQmlnSW50ZWdlcihyMik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBMRlVDYWNoZSBjYWNoZSA9IG5ldyBMRlVDYWNoZSgyKTsKICAgICAgICBjYWNoZS5wdXQoMSwgMSk7CiAgICAgICAgY2FjaGUucHV0KDIsIDIpOwogICAgICAgIGNhY2hlLnByaW50KCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGNhY2hlLmdldCgxKSk7ICAgICAgIC8vIHJldHVybnMgMQogICAgICAgIGNhY2hlLnByaW50KCk7CiAgICAgICAgY2FjaGUucHV0KDMsIDMpOyAgICAvLyBldmljdHMga2V5IDIKICAgICAgICBjYWNoZS5wcmludCgpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihjYWNoZS5nZXQoMikpOyAgICAgICAvLyByZXR1cm5zIC0xIChub3QgZm91bmQpCiAgICAgICAgY2FjaGUucHJpbnQoKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2FjaGUuZ2V0KDMpKTsgICAgICAgLy8gcmV0dXJucyAzLgogICAgICAgIGNhY2hlLnByaW50KCk7CiAgICAgICAgY2FjaGUucHV0KDQsIDQpOyAgICAvLyBldmljdHMga2V5IDEuCiAgICAgICAgY2FjaGUucHJpbnQoKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2FjaGUuZ2V0KDEpKTsgICAgICAgLy8gcmV0dXJucyAtMSAobm90IGZvdW5kKQogICAgICAgIGNhY2hlLnByaW50KCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGNhY2hlLmdldCgzKSk7ICAgICAgIC8vIHJldHVybnMgMwogICAgICAgIGNhY2hlLnByaW50KCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGNhY2hlLmdldCg0KSk7ICAgICAgIC8vIHJldHVybnMgNAogICAgICAgIGNhY2hlLnByaW50KCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnIxID0gbmV3IEJpZ0ludGVnZXIocjEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZvaWQgcHJpbnQoKSB7CiAgICAgICAgQnVja2V0Tm9kZSBwID0gKEJ1Y2tldE5vZGUpIGJ1Y2tldHMuaGVhZDsKICAgICAgICB3aGlsZSAocCAhPSBudWxsKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQocC5jb3VudCsiWyIpOwogICAgICAgICAgICBFbnRyeU5vZGUgcSA9IChFbnRyeU5vZGUpIHAuZW50cmllcy5oZWFkOwogICAgICAgICAgICB3aGlsZSAocSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KHEua2V5KyI6IitxLnZhbHVlKyIsIik7CiAgICAgICAgICAgICAgICBxID0gKEVudHJ5Tm9kZSkgcS5yaWdodDsKICAgICAgICAgICAgfQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCJdLCIpOwogICAgICAgICAgICBwID0gKEJ1Y2tldE5vZGUpIHAucmlnaHQ7CiAgICAgICAgfQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwogICAgfQoK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfYnVja2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSBtYXQgPSBuZXcgaW50IFtdIHsxLDIsMSwyLDEsMiwxfTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGN1ciA9PSB0YWlsKSBhZGRfdGFpbChub2RlKTsK</text>
+        <text encoding="base64">ICAgIGludCBjb21wYXJlKFN0cmluZyBuMSwgU3RyaW5nIG4yKSB7CiAgICAgICAgaWYgKG4xLmxlbmd0aCgpID4gbjIubGVuZ3RoKCkpIHJldHVybiAxOwogICAgICAgIGlmIChuMS5sZW5ndGgoKSA8IG4yLmxlbmd0aCgpKSByZXR1cm4gLTE7CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBuMS5sZW5ndGgoKTsgaSsrKSB7CiAgICAgICAgICAgIGlmIChuMS5jaGFyQXQoaSkgPiBuMi5jaGFyQXQoaSkpIHJldHVybiAxOwogICAgICAgICAgICBpZiAobjEuY2hhckF0KGkpIDwgbjIuY2hhckF0KGkpKSByZXR1cm4gLTE7CiAgICAgICAgfQogICAgICAgIHJldHVybiAwOwogICAgfQo=</text>
       </register>
     </registers>
     <search>
-      <last-search>public</last-search>
+      <last-search>br</last-search>
       <last-offset />
-      <last-pattern>public</last-pattern>
+      <last-pattern>br</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -118,6 +132,7 @@
       <history-search>
         <entry encoding="base64">XDxhZGRfdGFpbFw+</entry>
         <entry>public</entry>
+        <entry>br</entry>
       </history-search>
       <history-cmd />
       <history-expr />
