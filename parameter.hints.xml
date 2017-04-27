@@ -1,0 +1,10 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Groovy" />
+      <blacklist language="Java">
+        <added pattern="java.math.BigInteger.BigInteger(val)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
