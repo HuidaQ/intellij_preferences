@@ -35,10 +35,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/Solution.java" timestamp="1493361293386">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/Solution.java" timestamp="1493361935406">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="11" column="10" />
+        <mark key="." line="11" column="10" />
+        <mark key="^" line="11" column="10" />
       </file>
       <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/FindClosestPalindrome.java" timestamp="1493275362633">
         <mark key="'" line="56" column="34" />
