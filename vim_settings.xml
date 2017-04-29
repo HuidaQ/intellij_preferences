@@ -6,11 +6,19 @@
       <file name="/Dummy.txt" timestamp="1493186395520">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/MinimumMovesToEqualArrayElementsII.java" timestamp="1493276492078">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/Main.java" timestamp="1493186695279">
+        <mark key="a" line="5" column="0" />
+        <mark key="'" line="0" column="20" />
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox (Personal)/intelliJ_projects/LeetCode/src/CountTheRepetitions.java" timestamp="1493422582106">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+        <mark key="^" line="0" column="31" />
       </file>
       <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/IslandPerimeter.java" timestamp="1493357999857">
         <mark key="[" line="2" column="0" />
@@ -23,17 +31,30 @@
         <mark key="." line="1" column="3" />
         <mark key="^" line="1" column="3" />
       </file>
+      <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/LFUCache.java" timestamp="1493262297488">
+        <mark key="'" line="157" column="1" />
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="23" column="29" />
+        <mark key="." line="23" column="29" />
+        <mark key="^" line="23" column="29" />
+      </file>
+      <file name="$USER_HOME$/Dropbox (Personal)/intelliJ_projects/LeetCode/src/Solution.java" timestamp="1493419848471">
+        <mark key="[" line="30" column="5" />
+        <mark key="]" line="31" column="3" />
+        <mark key="^" line="31" column="3" />
+        <mark key="." line="31" column="3" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/MinimumMovesToEqualArrayElementsII.java" timestamp="1493276492078">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/intelliJ_projects/test/module1/src/Module.java" timestamp="1493104172400">
         <mark key="[" line="9" column="17" />
         <mark key="]" line="12" column="1" />
         <mark key="." line="12" column="1" />
         <mark key="^" line="12" column="1" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/CanIWin.java" timestamp="1493363589849">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="0" column="19" />
-        <mark key="^" line="0" column="19" />
       </file>
       <file name="$USER_HOME$/Dropbox/intelliJ_projects/test/src/Test.java" timestamp="1493102614622">
         <mark key="'" line="0" column="0" />
@@ -41,10 +62,10 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/Solution.java" timestamp="1493363124470">
-        <mark key="[" line="19" column="37" />
-        <mark key="]" line="19" column="37" />
-        <mark key="." line="19" column="37" />
+      <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/Solution.java" timestamp="1493269061947">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/FindClosestPalindrome.java" timestamp="1493275362633">
         <mark key="'" line="56" column="34" />
@@ -53,34 +74,24 @@
         <mark key="^" line="42" column="81" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/Main.java" timestamp="1493186695279">
-        <mark key="a" line="5" column="0" />
-        <mark key="'" line="0" column="20" />
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-        <mark key="^" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/LongestLineOfConsecutive1InMatrix.java" timestamp="1493269125184">
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="13" column="13" />
-        <mark key="." line="13" column="13" />
-      </file>
       <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/MinimumMovesToEqualArrayElements.java" timestamp="1493276751364">
         <mark key="[" line="1" column="6" />
         <mark key="]" line="15" column="38" />
         <mark key="^" line="15" column="38" />
         <mark key="." line="15" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1493363566948">
+      <file name="$USER_HOME$/Dropbox (Personal)/intelliJ_projects/PythonTest/src/test.py" timestamp="1493408948776">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/LFUCache.java" timestamp="1493262297488">
-        <mark key="'" line="157" column="1" />
-        <mark key="[" line="8" column="14" />
-        <mark key="]" line="23" column="29" />
-        <mark key="." line="23" column="29" />
-        <mark key="^" line="23" column="29" />
+      <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/LongestLineOfConsecutive1InMatrix.java" timestamp="1493269125184">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="13" />
+        <mark key="." line="13" column="13" />
+      </file>
+      <file name="/fragment.java" timestamp="1493422543124">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -103,6 +114,7 @@
       <jump line="38" column="12" filename="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/FindClosestPalindrome.java" />
       <jump line="24" column="32" filename="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/FindClosestPalindrome.java" />
       <jump line="56" column="34" filename="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/FindClosestPalindrome.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox (Personal)/intelliJ_projects/PythonTest/src/test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -115,34 +127,34 @@
         <text>br</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obWFzaysiLCIrdG90YWwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnIyID0gTG9uZy52YWx1ZU9mKHIyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obWFzaysiLCIrdG90YWwpOwo=</text>
+        <text encoding="base64">CmNsYXNzIEE6CiAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvKgo=</text>
+        <text encoding="base64">CmNsYXNzIEE6CiAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAqLwo=</text>
+        <text encoding="base64">bWFwID0gZGljdCgpOwptYXBbMV0gPSAiMTEiCm1hcFsyXSA9IDIKZm9yIGsgaW4gbWFwOgogICAgcHJpbnQobWFwW2tdKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obWFzaysiLCIrdG90YWwpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheXMuZmlsbAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBJc2xhbmRQZXJpbWV0ZXIgc29sID0gbmV3IElzbGFuZFBlcmltZXRlcigpOwogICAgICAgIC8vU3lzdGVtLm91dC5wcmludGxuKHNvbC5oYW1taW5nRGlzdGFuY2UoMSw0KSk7CiAgICB9Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgaHFpdSBvbiA0LzI3LzE3LgogKi8K</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBsb25nIGJuID0gTG9uZy52YWx1ZU9mKG4pOwo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBicjMgPSBMb25nLnZhbHVlT2YocjMpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYnIzID0gTG9uZy52YWx1ZU9mKHIzKTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYnIyID0gTG9uZy52YWx1ZU9mKHIyKTsK</text>
       </register>
     </registers>
     <search>
