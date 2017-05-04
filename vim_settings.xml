@@ -63,8 +63,11 @@
         <mark key="]" line="13" column="13" />
         <mark key="." line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/UniqueSubstringsInWraparoundString.java" timestamp="1493872286317">
-        <mark key="[" line="7" column="32" />
+      <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/UniqueSubstringsInWraparoundString.java" timestamp="1493873278809">
+        <mark key="'" line="24" column="1" />
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="16" />
+        <mark key="." line="1" column="16" />
       </file>
       <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/MinimumMovesToEqualArrayElements.java" timestamp="1493276751364">
         <mark key="[" line="1" column="6" />
@@ -116,13 +119,14 @@
       <jump line="24" column="32" filename="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/FindClosestPalindrome.java" />
       <jump line="56" column="34" filename="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/FindClosestPalindrome.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox (Personal)/intelliJ_projects/PythonTest/src/test.py" />
+      <jump line="20" column="1" filename="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/UniqueSubstringsInWraparoundString.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Solution</text>
+        <text encoding="base64">dmFsaWQg</text>
       </register>
       <register name="-" type="4">
-        <text>Solution</text>
+        <text encoding="base64">dmFsaWQg</text>
       </register>
       <register name="/" type="4">
         <text>br</text>
@@ -131,31 +135,31 @@
         <text encoding="base64">ICAgICAgICAgICAgYnIyID0gTG9uZy52YWx1ZU9mKHIyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmNsYXNzIEE6CiAgICAK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKiBAcGFyYW0gcAogICAgICogQHJldHVybgogICAgICovCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CmNsYXNzIEE6CiAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bWFwID0gZGljdCgpOwptYXBbMV0gPSAiMTEiCm1hcFsyXSA9IDIKZm9yIGsgaW4gbWFwOgogICAgcHJpbnQobWFwW2tdKQo=</text>
+        <text encoding="base64">CmNsYXNzIEE6CiAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBJc2xhbmRQZXJpbWV0ZXIgc29sID0gbmV3IElzbGFuZFBlcmltZXRlcigpOwogICAgICAgIC8vU3lzdGVtLm91dC5wcmludGxuKHNvbC5oYW1taW5nRGlzdGFuY2UoMSw0KSk7CiAgICB9Cg==</text>
+        <text encoding="base64">bWFwID0gZGljdCgpOwptYXBbMV0gPSAiMTEiCm1hcFsyXSA9IDIKZm9yIGsgaW4gbWFwOgogICAgcHJpbnQobWFwW2tdKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgaHFpdSBvbiA0LzI3LzE3LgogKi8K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBJc2xhbmRQZXJpbWV0ZXIgc29sID0gbmV3IElzbGFuZFBlcmltZXRlcigpOwogICAgICAgIC8vU3lzdGVtLm91dC5wcmludGxuKHNvbC5oYW1taW5nRGlzdGFuY2UoMSw0KSk7CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIGJuID0gTG9uZy52YWx1ZU9mKG4pOwo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgaHFpdSBvbiA0LzI3LzE3LgogKi8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBicjMgPSBMb25nLnZhbHVlT2YocjMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb25nIGJuID0gTG9uZy52YWx1ZU9mKG4pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnIzID0gTG9uZy52YWx1ZU9mKHIzKTsK</text>
+        <text encoding="base64">ICAgICAgICBicjMgPSBMb25nLnZhbHVlT2YocjMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnIyID0gTG9uZy52YWx1ZU9mKHIyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnIzID0gTG9uZy52YWx1ZU9mKHIzKTsK</text>
       </register>
     </registers>
     <search>
