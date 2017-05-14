@@ -16,6 +16,12 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="EditorDeleteToWordStart" />
+  <action id="EditorMoveToPageBottom">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorMoveToPageTop">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
   <action id="Macro.Delete to code start">
     <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
