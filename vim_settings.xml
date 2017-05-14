@@ -54,11 +54,10 @@
         <mark key="." line="57" column="3" />
         <mark key="^" line="57" column="3" />
       </file>
-      <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/Solution1.java" timestamp="1494740795418">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="26" />
-        <mark key="." line="0" column="26" />
-        <mark key="^" line="0" column="33" />
+      <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/Solution1.java" timestamp="1494742787950">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/FindClosestPalindrome.java" timestamp="1493275362633">
         <mark key="'" line="56" column="34" />
@@ -66,14 +65,6 @@
         <mark key="]" line="42" column="34" />
         <mark key="^" line="42" column="81" />
         <mark key="." line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/Main.java" timestamp="1493186695279">
-        <mark key="a" line="5" column="0" />
-        <mark key="'" line="0" column="20" />
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/intelliJ_projects/LeetCode/src/LongestLineOfConsecutive1InMatrix.java" timestamp="1493269125184">
         <mark key="[" line="13" column="13" />
@@ -94,7 +85,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1494740772988">
+      <file name="/fragment.java" timestamp="1494742745194">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox (Personal)/intelliJ_projects/LeetCode/src/CountTheRepetitions.java" timestamp="1493422582106">
@@ -139,10 +130,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>Solution</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>Solution</text>
       </register>
       <register name="/" type="4">
         <text>br</text>
