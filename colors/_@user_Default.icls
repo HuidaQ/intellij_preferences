@@ -4,7 +4,7 @@
     <property name="created">2017-04-24T23:56:41</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2017-05-25T20:55:30</property>
+    <property name="modified">2017-05-25T21:11:20</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.01" />
@@ -14,7 +14,22 @@
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <attributes>
+    <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
     <option name="ABSTRACT_METHOD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+    <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+    <option name="CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="0" />
       </value>
@@ -35,14 +50,24 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
+    <option name="ENUM_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
     <option name="INHERITED_METHOD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+    <option name="INTERFACE_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="0" />
       </value>
     </option>
     <option name="JAVA_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="8000" />
+        <option name="FOREGROUND" value="557f5f" />
       </value>
     </option>
     <option name="JAVA_DOC_COMMENT">
@@ -70,13 +95,13 @@
     </option>
     <option name="JAVA_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="80" />
+        <option name="FOREGROUND" value="7f0055" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JAVA_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="8000" />
+        <option name="FOREGROUND" value="557f5f" />
       </value>
     </option>
     <option name="JAVA_NUMBER">
@@ -101,7 +126,7 @@
     </option>
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="0" />
+        <option name="FOREGROUND" value="7f0055" />
       </value>
     </option>
     <option name="METHOD_CALL_ATTRIBUTES">
@@ -119,7 +144,7 @@
     </option>
     <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="0" />
+        <option name="FOREGROUND" value="7f0055" />
       </value>
     </option>
     <option name="REASSIGNED_PARAMETER_ATTRIBUTES">
